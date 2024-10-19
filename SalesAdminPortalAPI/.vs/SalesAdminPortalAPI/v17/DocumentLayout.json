@@ -5,6 +5,18 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0311BAF-BBAA-4EE0-9AFA-2EF63EC87406}|SalesAdminPortalAPI.csproj|f:\\projects\\salesadminportal\\salesadminportalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0311BAF-BBAA-4EE0-9AFA-2EF63EC87406}|SalesAdminPortalAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0311BAF-BBAA-4EE0-9AFA-2EF63EC87406}|SalesAdminPortalAPI.csproj|f:\\projects\\salesadminportal\\salesadminportalapi\\models\\entities\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0311BAF-BBAA-4EE0-9AFA-2EF63EC87406}|SalesAdminPortalAPI.csproj|solutionrelative:models\\entities\\salesman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0311BAF-BBAA-4EE0-9AFA-2EF63EC87406}|SalesAdminPortalAPI.csproj|f:\\projects\\salesadminportal\\salesadminportalapi\\salesadminportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A0311BAF-BBAA-4EE0-9AFA-2EF63EC87406}|SalesAdminPortalAPI.csproj|solutionrelative:salesadminportalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0311BAF-BBAA-4EE0-9AFA-2EF63EC87406}|SalesAdminPortalAPI.csproj|f:\\projects\\salesadminportal\\salesadminportalapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0311BAF-BBAA-4EE0-9AFA-2EF63EC87406}|SalesAdminPortalAPI.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +26,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Projects\\SalesAdminPortal\\SalesAdminPortalAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Projects\\SalesAdminPortal\\SalesAdminPortalAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:38:05.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesAdminPortalAPI",
+              "DocumentMoniker": "F:\\Projects\\SalesAdminPortal\\SalesAdminPortalAPI\\SalesAdminPortalAPI.csproj",
+              "RelativeDocumentMoniker": "SalesAdminPortalAPI.csproj",
+              "ToolTip": "F:\\Projects\\SalesAdminPortal\\SalesAdminPortalAPI\\SalesAdminPortalAPI.csproj",
+              "RelativeToolTip": "SalesAdminPortalAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-19T21:37:07.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Salesman.cs",
+              "DocumentMoniker": "F:\\Projects\\SalesAdminPortal\\SalesAdminPortalAPI\\Models\\Entities\\Salesman.cs",
+              "RelativeDocumentMoniker": "Models\\Entities\\Salesman.cs",
+              "ToolTip": "F:\\Projects\\SalesAdminPortal\\SalesAdminPortalAPI\\Models\\Entities\\Salesman.cs",
+              "RelativeToolTip": "Models\\Entities\\Salesman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T21:28:35.449Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +75,7 @@
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\Projects\\SalesAdminPortal\\SalesAdminPortalAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T07:41:52.9Z",
               "EditorCaption": ""

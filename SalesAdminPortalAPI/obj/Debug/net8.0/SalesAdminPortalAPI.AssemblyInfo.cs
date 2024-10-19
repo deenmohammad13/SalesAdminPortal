@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SalesAdminPortalAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c2314b48c6bbc6fc81f8f349ec20136c5285926")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+720ebbdf7fa3df2faf95b121b7099a6ccb62bdfc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SalesAdminPortalAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SalesAdminPortalAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
