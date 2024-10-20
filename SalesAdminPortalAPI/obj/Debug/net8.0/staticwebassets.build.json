@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TsHgxyjfTbYUGigiuaN2UldBHuA1Zu9xU4ojr03g6TQ=",
+  "Source": "SalesAdminPortalAPI",
+  "BasePath": "_content/SalesAdminPortalAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
